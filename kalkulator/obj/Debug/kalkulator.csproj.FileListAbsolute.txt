@@ -1,0 +1,18 @@
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+c:\users\alifah\documents\visual studio 2015\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+E:\Semester 5\Pemvis\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
